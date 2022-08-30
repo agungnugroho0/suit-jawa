@@ -9,7 +9,7 @@ p = prompt ('pilih : gajah, semut, orang');
 comp = Math.random();
 if (comp <0.34){
     comp = 'gajah';
-} else if (comp >=0.34 && comp < 0.37){
+} else if (comp >=0.34 && comp < 0.77){
     comp = 'orang';
 } else {
     comp = 'semut';
